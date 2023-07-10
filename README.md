@@ -1,5 +1,5 @@
 # isee
-i can do it
+i can do it\
 Функция ```console.log()```
 выводит текст в консоль.
 
